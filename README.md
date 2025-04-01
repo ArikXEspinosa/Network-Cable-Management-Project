@@ -20,11 +20,12 @@ The purpose of this project is to reorganize all network cables in each closet w
 
 Cable management tools (Velcro, zip ties, cable labels).
 
-Network mapping software (e.g., NetBox, SolarWinds, or a simple spreadsheet).
+Network mapping software (ExtremeNetwork).
 
 Patch panel documentation using spreadsheets or a database.
+[Trailblazer Master Network Directory.xlsx](https://github.com/user-attachments/files/19556284/Trailblazer.Master.Network.Directory.xlsx)
 
-Labeling tools (Label printer, color-coded labels).
+
 
 ## Steps
 Assessment & Planning
