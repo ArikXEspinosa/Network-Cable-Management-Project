@@ -28,7 +28,7 @@ Patch panel documentation using spreadsheets and Packet Template
 A comprehensive spreadsheet for documenting switch ports, patch panel connections, closet locations, and device mappings.
 
 ### 📄 Network Packet Template
-**[Network Directory Template (.docx)](https://github.com/yourusername/your-repo-name/blob/main/NETWORK%20DIRECTORY.docx)**  
+**👉 [Network Documentation Packet (View on Google Docs)](https://docs.google.com/document/d/1g7dvufmXRGma9Mzcw8oTcML5iSQTgUaM/edit?usp=sharing&ouid=112130089608892881782&rtpof=true&sd=true)**  
 A formalized Word document used for physical network packet documentation. This includes labeled closet layouts, port usage, and infrastructure notes to support cable management and upgrades.
 
 
