@@ -23,12 +23,13 @@ Cable management tools (Velcro, zip ties, cable labels).
 Network mapping software (ExtremeNetwork).
 
 Patch panel documentation using spreadsheets and Packet Template
-### 📁 Network Directory Example
-**[Trailblazer Master Network Directory (.xlsx)](https://github.com/user-attachments/files/19556284/Trailblazer.Master.Network.Directory.xlsx)**  
+### 
 A comprehensive spreadsheet for documenting switch ports, patch panel connections, closet locations, and device mappings.
+[Example Closet Network Directory.xlsx](https://github.com/user-attachments/files/20231783/Example.Closet.Network.Directory.xlsx)
 
 ### 📄 Network Packet Template
-**👉 [Network Documentation Packet (View on Google Docs)](https://docs.google.com/document/d/1g7dvufmXRGma9Mzcw8oTcML5iSQTgUaM/edit?usp=sharing&ouid=112130089608892881782&rtpof=true&sd=true)**  
+**[Example Network Directory.docx](https://github.com/user-attachments/files/20231785/Example.Network.Directory.docx)
+
 A formalized Word document used for physical network packet documentation. This includes labeled closet layouts, port usage, and infrastructure notes to support cable management and upgrades.
 
 
